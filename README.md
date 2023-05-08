@@ -22,6 +22,10 @@ https://support.google.com/admob/answer/612854
 
 https://firebase.google.com/policies/analytics
 
+<b>MyTarget</b>
+
+https://legal.my.com/us/mytarget/privacy
+
 <b>2. Sharing Your Information</b>
 
 The developer will share personal information with third parties only in the ways that are described in this privacy statement.
