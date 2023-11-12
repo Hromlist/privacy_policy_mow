@@ -22,6 +22,10 @@ https://support.google.com/admob/answer/612854
 
 https://firebase.google.com/policies/analytics
 
+<b>Firebase Crashlytics</b>
+
+https://firebase.google.com/support/privacy
+
 <b>MyTarget</b>
 
 https://legal.my.com/us/mytarget/privacy
