@@ -71,13 +71,13 @@ The acronyms in parentheses indicate the various data protection and privacy law
 
 1. When launching the Application, at the bottom of the screen, click on the message “Do Not Sell or Share My Personal Information”. In the window that appears, select Don't sell or share my data and confirm your choice by clicking on Save and close. Close and restart Application. After you have made your choice by clicking on Save and close the message “Do Not Sell or Share My Personal Information” will no longer appear when launching the Application.
 
-2. Open the menu and enter the Application's privacy policy screen. At the bottom of the screen, click on the “Do Not Sell or Share My Personal Information” message. In the window that appears, select Don't sell or share my data and confirm your choice by clicking on Save and close. Close and restart Application. The message “Do Not Sell or Share My Personal Information” is available permanently on this screen, if you wish, you can always change your choice.
+2. Open the settings and enter the Application's privacy policy screen. At the bottom of the screen, click on the “Do Not Sell or Share My Personal Information” message. In the window that appears, select Don't sell or share my data and confirm your choice by clicking on Save and close. Close and restart Application. The message “Do Not Sell or Share My Personal Information” is available permanently on this screen, if you wish, you can always change your choice.
 
 <b>6.2 EEA, UK, and Switzerland users can opt out of personalized ads while in the app in the following ways:</b>
 
 1. When you launch the app, a window will appear where you can choose how your personal data is used. Close and restart Application. Once you have made your choice this window will no longer appear when you launch the Application.
 
-2. Open the menu and enter the app's privacy policy screen. In the upper right corner, click on Privacy settings and a window will appear in which you can choose how your personal data is used. Close and restart Application. Privacy settings are available permanently on this screen, you can always change your choice if you wish.
+2. Open the settings and enter the app's privacy policy screen. In the upper right corner, click on Privacy settings and a window will appear in which you can choose how your personal data is used. Close and restart Application. Privacy settings are available permanently on this screen, you can always change your choice if you wish.
 
 <b>7. Children</b>
 
